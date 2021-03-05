@@ -10,7 +10,7 @@
         />
       </v-col>
 
-      <v-col class="mb-4">
+      <!-- <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
           Welcome to Vuetify
         </h1>
@@ -23,9 +23,9 @@
             target="_blank"
           >Discord Community</a>
         </p>
-      </v-col>
+      </v-col> -->
 
-      <v-col
+      <!-- <v-col
         class="mb-5"
         cols="12"
       >
@@ -86,7 +86,7 @@
             {{ eco.text }}
           </a>
         </v-row>
-      </v-col>
+      </v-col> -->
     </v-row>
   </v-container>
 </template>
